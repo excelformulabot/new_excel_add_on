@@ -9,8 +9,8 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="excelformulabot"/>
   <Description DefaultValue="excelformulabot"/>
-  <IconUrl DefaultValue="https://localhost:3000/assets/icon-32.png"/>
-  <HighResolutionIconUrl DefaultValue="https://localhost:3000/assets/icon-64.png"/>
+  <IconUrl DefaultValue="https://excelformulabot.github.io/excelformulabotrepo/assets/logo_32.png"/>
+  <HighResolutionIconUrl DefaultValue="https://excelformulabot.github.io/excelformulabotrepo/assets/logo_64.png"/>
   <SupportUrl DefaultValue="https://www.contoso.com/help"/>
   <AppDomains>
     <AppDomain>https://www.contoso.com</AppDomain>
