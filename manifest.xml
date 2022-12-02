@@ -13,13 +13,13 @@
   <HighResolutionIconUrl DefaultValue="https://excelformulabot.github.io/excelformulabotrepo/assets/logo_64.png"/>
   <SupportUrl DefaultValue="https://excelformulabot.com/frequently-asked-questions-faq"/>
   <AppDomains>
-    <AppDomain>https://www.contoso.com</AppDomain>
+    <AppDomain>https://www.excelformulabot.com</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Workbook"/>
   </Hosts>
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://localhost:3000/taskpane.html"/>
+    <SourceLocation DefaultValue="https://github.com/excelformulabot/new_excel_add_on/blob/main/taskpane.html"/>
   </DefaultSettings>
   <Permissions>ReadWriteDocument</Permissions>
   <VersionOverrides xmlns="http://schemas.microsoft.com/office/taskpaneappversionoverrides" xsi:type="VersionOverridesV1_0">
