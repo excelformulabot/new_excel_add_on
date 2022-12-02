@@ -11,7 +11,7 @@
   <Description DefaultValue="excelformulabot"/>
   <IconUrl DefaultValue="https://excelformulabot.github.io/excelformulabotrepo/assets/logo_32.png"/>
   <HighResolutionIconUrl DefaultValue="https://excelformulabot.github.io/excelformulabotrepo/assets/logo_64.png"/>
-  <SupportUrl DefaultValue="https://www.contoso.com/help"/>
+  <SupportUrl DefaultValue="https://excelformulabot.com/frequently-asked-questions-faq"/>
   <AppDomains>
     <AppDomain>https://www.contoso.com</AppDomain>
   </AppDomains>
@@ -71,8 +71,8 @@
       </bt:Images>
       <bt:Urls>
         <bt:Url id="GetStarted.LearnMoreUrl" DefaultValue="https://go.microsoft.com/fwlink/?LinkId=276812" />
-        <bt:Url id="Commands.Url" DefaultValue="https://localhost:3000/commands.html" />
-        <bt:Url id="Taskpane.Url" DefaultValue="https://localhost:3000/taskpane.html" />
+        <bt:Url id="Commands.Url" DefaultValue="https://github.com/excelformulabot/new_excel_add_on/blob/main/commands.html" />
+        <bt:Url id="Taskpane.Url" DefaultValue="https://github.com/excelformulabot/new_excel_add_on/blob/main/taskpane.html" />
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GetStarted.Title" DefaultValue="show bot" />
